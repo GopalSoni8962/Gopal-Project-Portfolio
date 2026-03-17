@@ -60,3 +60,16 @@ ________________________________________
 •	Cloud Migration
 •	Cloud Infrastructure
 ________________________________________
+
+
+🔗 Let’s Connect!
+
+I am open to opportunities in:
+
+Azure Cloud Architect
+
+Senior Cloud Engineer
+
+Azure Solution Architect
+
+
